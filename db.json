@@ -1,4 +1,30 @@
 {
+  "posts": [
+                {
+                    "id":1,
+                    "creatorName": "This is creatorName",
+                    "title": "This is title",
+                    "createdDate": "This is createdDate",
+                    "content": "This is content",
+                    "mediaURL": "https://reactjs.org/logo-og.png"
+                },
+                {
+                    "id":2,
+                    "creatorName": "This is creatorName",
+                    "title": "This is title",
+                    "createdDate": "This is createdDate",
+                    "content": "This is content",
+                    "mediaURL": "https://reactjs.org/logo-og.png"
+                },
+                {
+                    "id":3,
+                    "creatorName": "This is creatorName",
+                    "title": "This is title",
+                    "createdDate": "This is createdDate",
+                    "content": "This is content",
+                    "mediaURL": "https://reactjs.org/logo-og.png"
+                }
+            ],
   "categories": [
     {"id": 1, "name": "Dung cu 1"},
     {"id": 2, "name": "Dung cu 2"},
