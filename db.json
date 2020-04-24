@@ -2,19 +2,19 @@
   "posts": [
     {
       "id":1,
-      "creatorName": "Bác sĩ Long Đỗ Thành",
+      "creatorName": "Tin mới về khu cách ly Trường ĐH FPT",
       "title": "Thông báo quan trọng",
       "createdDate": "24/04/2020",
-      "content": "Nhóm Du học sinh yêu nước dành chiến thắng",
-      "mediaURL": "https://reactjs.org/logo-og.png"
+      "content": "Trường ĐH FPT vinh dự tài trợ khu KTX trường làm khu cách ly phục vụ Bộ Y Tế",
+      "mediaURL": "https://raw.githubusercontent.com/Gnol-VN/dhsynApp_mobile/master/assets/images/quarantine.jpg"
     },
     {
       "id":2,
-      "creatorName": "This is creatorName",
+      "creatorName": "Cảm phục trước những anh hùng thời Covid-19",
       "title": "This is title",
-      "createdDate": "This is createdDate",
-      "content": "This is content",
-      "mediaURL": "https://reactjs.org/logo-og.png"
+      "createdDate": "23/04/2020",
+      "content": "Siêu nhân cũng phải ngả mũ",
+      "mediaURL": "https://raw.githubusercontent.com/Gnol-VN/dhsynApp_mobile/master/assets/images/doctor.jpg"
     },
     {
       "id":3,
