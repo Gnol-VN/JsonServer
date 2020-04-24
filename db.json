@@ -1,14 +1,45 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "categories": [
+    {"id": 1, "name": "Dung cu 5"},
+    {"id": 2, "name": "Dung cu 2"},
+    {"id": 3, "name": "Dung cu 3"},
+    {"id": 4, "name": "Dung cu 4"}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products": [
+    {
+      "id": 1,
+      "name": "san pham 1"
+    },
+    {
+      "id": 2,
+      "name": "san pham 2"
+    },
+    {
+      "id": 3,
+      "name": "san pham 3"
+    },
+    {
+      "id": 4,
+      "name": "san pham 1"
+    },
+    {
+      "id": 5,
+      "name": "san pham 2"
+    },
+    {
+      "id": 6,
+      "name": "san pham 3"
+    }, {
+      "id": 7,
+      "name": "san pham 1"
+    },
+    {
+      "id": 8,
+      "name": "san pham 2"
+    },
+    {
+      "id": 9,
+      "name": "san pham 3"
+    }
+  ]
 }
