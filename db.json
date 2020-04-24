@@ -2,10 +2,10 @@
   "posts": [
                 {
                     "id":1,
-                    "creatorName": "This is creatorName",
-                    "title": "This is title",
-                    "createdDate": "This is createdDate",
-                    "content": "This is content",
+                    "creatorName": "Bác sĩ Long Đỗ Thành",
+                    "title": "Thông báo quan trọng",
+                    "createdDate": "24/04/2020,
+                    "content": "Nhóm Du học sinh yêu nước dành chiến thắng",
                     "mediaURL": "https://reactjs.org/logo-og.png"
                 },
                 {
