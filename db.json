@@ -2,18 +2,18 @@
   "posts": [
     {
       "id":1,
-      "creatorName": "Tin mới về khu cách ly Trường ĐH FPT",
-      "title": "Thông báo quan trọng",
+      "creatorName": "Ban quản trị KCL Trường ĐH FPT",
+      "title": "Tin mới về khu cách ly Trường ĐH FPT",
       "createdDate": "24/04/2020",
       "content": "Trường ĐH FPT vinh dự tài trợ khu KTX trường làm khu cách ly phục vụ Bộ Y Tế",
       "mediaURL": "https://raw.githubusercontent.com/Gnol-VN/dhsynApp_mobile/master/assets/images/quarantine.jpg"
     },
     {
       "id":2,
-      "creatorName": "Cảm phục trước những anh hùng thời Covid-19",
-      "title": "This is title",
+      "creatorName": "Đại diện tập thể bác sĩ",
+      "title": "Siêu nhân cũng phải ngả mũ",
       "createdDate": "23/04/2020",
-      "content": "Siêu nhân cũng phải ngả mũ",
+      "content": "Hình ảnh bức tranh 'Siêu nhân cũng phải ngả mũ' trước những chiến thắng của Đảng, Nhà nước, và toàn dân tộc Việt Nam kiên cường bất khuất",
       "mediaURL": "https://raw.githubusercontent.com/Gnol-VN/dhsynApp_mobile/master/assets/images/doctor.jpg"
     },
     {
