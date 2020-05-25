@@ -17,21 +17,11 @@
 		}
 	],
 	"messages": [{
-			"_id": 8,
-			"text": "Có ai thừa bột giặt không? Cho em xin một chút ",
-			"createdAt": "2020-05-08T15:08:48.291+00:00",
-			"user": {
-				"_id": 8,
-				"name": "Minh Thư",
-				"avatar": "https://randomuser.me/api/portraits/women/65.jpg"
-			}
-		},
-		{
-			"_id": 9,
+			"id": 9,
 			"text": "Có ai thừa bột giặt không? Cho em xin một chút ",
 			"createdAt": "2020-05-08T15:10:48.291+00:00",
 			"user": {
-				"_id": 9,
+				"id": 9,
 				"name": "Minh Thư",
 				"avatar": "https://randomuser.me/api/portraits/women/2.jpg"
 			}
