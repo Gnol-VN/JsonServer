@@ -17,7 +17,7 @@
       "mediaURL": "https://www.georgelimerick.com/cmsGallery/imagerow/6007/resized/1440x900/the_george_hotel_king_room.jpg"
     }
   ],
-  "contacts" = [
+  "contacts" : [
     {
       "contactName": "Receiption",
       "contactNumber": "999-999-9999",
