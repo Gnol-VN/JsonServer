@@ -17,6 +17,38 @@
       "mediaURL": "https://www.georgelimerick.com/cmsGallery/imagerow/6007/resized/1440x900/the_george_hotel_king_room.jpg"
     }
   ],
+  "contacts" = [
+    {
+      "contactName": "Receiption",
+      "contactNumber": "999-999-9999",
+    },
+    {
+      "contactName": "Security",
+      "contactNumber": "089-555-5555",
+    }
+  ],
+  "SECTIONS" = [
+      {
+        "title": "1. First title",
+        "content": [
+          "Lorem1",
+          "Lorem2",
+          "Lorem3",
+          "Lorem4",
+          "Lorem5",
+        ],
+      },
+      {
+        "title": "2. Second title",
+        "content": [
+          "Lorem1",
+          "Lorem2",
+          "Lorem3",
+          "Lorem4",
+          "Lorem5",
+        ]
+      },
+   ],
   "categories": [
     {"id": 1, "name": "Dung cu 1"},
     {"id": 2, "name": "Dung cu 2"},
