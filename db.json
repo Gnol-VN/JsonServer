@@ -27,7 +27,7 @@
       "contactNumber": "089-555-5555",
     }
   ],
-  "SECTIONS" = [
+  "SECTIONS" : [
       {
         "title": "1. First title",
         "content": [
