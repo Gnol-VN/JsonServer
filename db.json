@@ -24,7 +24,7 @@
     },
     {
       "contactName": "Security",
-      "contactNumber": "089-555-5555",
+      "contactNumber": "089-555-5555"
     }
   ],
   "SECTIONS" : [
@@ -35,7 +35,7 @@
           "Lorem2",
           "Lorem3",
           "Lorem4",
-          "Lorem5",
+          "Lorem5"
         ],
       },
       {
@@ -45,9 +45,9 @@
           "Lorem2",
           "Lorem3",
           "Lorem4",
-          "Lorem5",
+          "Lorem5"
         ]
-      },
+      }
    ],
   "categories": [
     {"id": 1, "name": "Dung cu 1"},
