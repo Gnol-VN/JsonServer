@@ -16,17 +16,6 @@
 			"mediaURL": "https://www.georgelimerick.com/cmsGallery/imagerow/6007/resized/1440x900/the_george_hotel_king_room.jpg"
 		}
 	],
-	"messages": [{
-			"id": 9,
-			"text": "Có ai thừa bột giặt không? Cho em xin một chút ",
-			"createdAt": "2020-05-08T15:10:48.291+00:00",
-			"user": {
-				"id": 9,
-				"name": "Minh Thư",
-				"avatar": "https://randomuser.me/api/portraits/women/2.jpg"
-			}
-		}
-	],
 	"contacts": [{
 			"contactName": "Receiption",
 			"contactNumber": "999-999-9999"
