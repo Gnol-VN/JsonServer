@@ -73,51 +73,5 @@
 			"id": 4,
 			"name": "Dung cu 6"
 		}
-	],
-	"products": [{
-			"id": 1,
-			"name": "san pham 1",
-			"categoryId": 1
-		},
-		{
-			"id": 2,
-			"name": "san pham 2",
-			"categoryId": 1
-
-		},
-		{
-			"id": 3,
-			"name": "san pham 3",
-			"categoryId": 1
-		},
-		{
-			"id": 4,
-			"name": "san pham 4",
-			"categoryId": 1
-		},
-		{
-			"id": 5,
-			"name": "san pham 5",
-			"categoryId": 2
-		},
-		{
-			"id": 6,
-			"name": "san pham 6",
-			"categoryId": 2
-		}, {
-			"id": 7,
-			"name": "san pham 7",
-			"categoryId": 3
-		},
-		{
-			"id": 8,
-			"name": "san pham 8",
-			"categoryId": 3
-		},
-		{
-			"id": 9,
-			"name": "san pham 9",
-			"categoryId": 3
-		}
 	]
 }
