@@ -46,6 +46,19 @@
 			]
 		}
 	],
+	"TICKETS": [{
+			"title": "I need clean up service",
+			"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id blandit ipsum. Praesent venenatis interdum mauris a feugiat. Nam vel lectus tempor, elementum quam vel, congue sem",
+			, 
+			"status": "approved"
+		},
+		{
+			"title": "I have allergy against peanut",
+			"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id blandit ipsum. Praesent venenatis interdum mauris a feugiat. Nam vel lectus tempor, elementum quam vel, congue sem",
+			, 
+			"status": "pending"
+		}
+	],
 	"categories": [{
 			"id": 1,
 			"name": "Dung cu 1"
